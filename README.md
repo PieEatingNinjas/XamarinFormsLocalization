@@ -1,1 +1,2 @@
-# XamarinFormsLocalization
+# Xamarin.Forms Localization Example
+Simple example of how I implemented localization in a Xamarin.Forms app. With this approach, I am able to bind to items in a RESX Resource file dynamically. As soon as the user changes his preferred language in the app, the value of all bound resource items are instantly updated to the value of the chosen langue. Find out more on my blog [here](http://blog.pieeatingninjas.be/2017/05/20/dynamically-binding-resx-resources-in-xamarin-forms)
